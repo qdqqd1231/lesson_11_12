@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace metodicka_11_12_21
+namespace Lesson11_12_21
 {
     class BankTransaction
     {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Diagnostics;
 
-namespace metodicka_11_12_21
+namespace Lesson11_12_21
 {
     [DevelopementInfo("Данил", "Кфу")]
     class BankAccount
